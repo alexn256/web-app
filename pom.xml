@@ -28,7 +28,7 @@
         <hibernate-ehcache.version>5.2.10.Final</hibernate-ehcache.version>
         <dbcp.version>2.6.0</dbcp.version>
         <json-path.version>2.2.0</json-path.version>
-        <h2.version>1.4.199</h2.version>
+        <h2.version>2.1.210</h2.version>
         <lombok.version>1.18.6</lombok.version>
         <thymeleaf.version>3.0.11.RELEASE</thymeleaf.version>
         <ehcache.version>2.10.4</ehcache.version>
